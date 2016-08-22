@@ -1,6 +1,6 @@
 {
   "name": "@jdiamond/mqtt-bridge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "mqtt-bridge.js",
   "bin" : { "mqtt-bridge" : "./mqtt-bridge.js" },
   "description": "bridge between MQTT brokers",
